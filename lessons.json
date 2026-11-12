@@ -1,0 +1,2065 @@
+{
+ "voice": "en-US-JennyNeural",
+ "slow_rate": "-35%",
+ "glossary": {
+  "the": {
+   "ipa": "/ðə/",
+   "zh": "这个；那个（放在名词前，常常不用翻译）"
+  },
+  "gain": {
+   "ipa": "/ɡeɪn/",
+   "zh": "增益"
+  },
+  "is": {
+   "ipa": "/ɪz/",
+   "zh": "是（现在，一个东西）"
+  },
+  "5": {
+   "ipa": "/faɪv/",
+   "zh": "五",
+   "say": "five"
+  },
+  "dbi": {
+   "ipa": "/ˌdiː biː ˈaɪ/",
+   "zh": "dBi（天线增益的单位）",
+   "say": "D B I"
+  },
+  "bandwidth": {
+   "ipa": "/ˈbændwɪdθ/",
+   "zh": "带宽"
+  },
+  "100": {
+   "ipa": "/wʌn ˈhʌndrəd/",
+   "zh": "一百",
+   "say": "one hundred"
+  },
+  "mhz": {
+   "ipa": "/ˈmeɡəhɜːrts/",
+   "zh": "兆赫（MHz）",
+   "say": "megahertz"
+  },
+  "frequency": {
+   "ipa": "/ˈfriːkwənsi/",
+   "zh": "频率"
+  },
+  "2.4": {
+   "ipa": "/tuː pɔɪnt fɔːr/",
+   "zh": "二点四",
+   "say": "two point four"
+  },
+  "ghz": {
+   "ipa": "/ˈɡɪɡəhɜːrts/",
+   "zh": "吉赫（GHz）",
+   "say": "gigahertz"
+  },
+  "yesterday": {
+   "ipa": "/ˈjestərdeɪ/",
+   "zh": "昨天"
+  },
+  "impedance": {
+   "ipa": "/ɪmˈpiːdns/",
+   "zh": "阻抗"
+  },
+  "matching": {
+   "ipa": "/ˈmætʃɪŋ/",
+   "zh": "匹配"
+  },
+  "was": {
+   "ipa": "/wʌz/",
+   "zh": "是（过去，一个东西）"
+  },
+  "bad": {
+   "ipa": "/bæd/",
+   "zh": "坏的；差的"
+  },
+  "radiation": {
+   "ipa": "/ˌreɪdiˈeɪʃn/",
+   "zh": "辐射"
+  },
+  "patterns": {
+   "ipa": "/ˈpætərnz/",
+   "zh": "方向图（多个）"
+  },
+  "were": {
+   "ipa": "/wɜːr/",
+   "zh": "是（过去，多个东西）"
+  },
+  "good": {
+   "ipa": "/ɡʊd/",
+   "zh": "好的"
+  },
+  "in": {
+   "ipa": "/ɪn/",
+   "zh": "在……里"
+  },
+  "last": {
+   "ipa": "/læst/",
+   "zh": "上一次的；最后的"
+  },
+  "test": {
+   "ipa": "/test/",
+   "zh": "测试"
+  },
+  "we": {
+   "ipa": "/wiː/",
+   "zh": "我们"
+  },
+  "need": {
+   "ipa": "/niːd/",
+   "zh": "需要"
+  },
+  "to": {
+   "ipa": "/tuː/",
+   "zh": "到；去（need to = 需要做）"
+  },
+  "improve": {
+   "ipa": "/ɪmˈpruːv/",
+   "zh": "改善；提高"
+  },
+  "result": {
+   "ipa": "/rɪˈzʌlt/",
+   "zh": "结果"
+  },
+  "meets": {
+   "ipa": "/miːts/",
+   "zh": "满足；达到"
+  },
+  "requirement": {
+   "ipa": "/rɪˈkwaɪərmənt/",
+   "zh": "要求；指标"
+  },
+  "vswr": {
+   "ipa": "/ˌviː es ˌdʌbəljuː ˈɑːr/",
+   "zh": "电压驻波比（四个字母分开读）",
+   "say": "V S W R"
+  },
+  "1.5": {
+   "ipa": "/wʌn pɔɪnt faɪv/",
+   "zh": "一点五",
+   "say": "one point five"
+  },
+  "50": {
+   "ipa": "/ˈfɪfti/",
+   "zh": "五十",
+   "say": "fifty"
+  },
+  "ohms": {
+   "ipa": "/oʊmz/",
+   "zh": "欧姆"
+  },
+  "measure": {
+   "ipa": "/ˈmeʒər/",
+   "zh": "测量"
+  },
+  "low": {
+   "ipa": "/loʊ/",
+   "zh": "低的"
+  },
+  "this": {
+   "ipa": "/ðɪs/",
+   "zh": "这个"
+  },
+  "antenna": {
+   "ipa": "/ænˈtenə/",
+   "zh": "天线"
+  },
+  "has": {
+   "ipa": "/hæz/",
+   "zh": "有（一个东西做主语时用）"
+  },
+  "a": {
+   "ipa": "/ə/",
+   "zh": "一个"
+  },
+  "high": {
+   "ipa": "/haɪ/",
+   "zh": "高的"
+  },
+  "these": {
+   "ipa": "/ðiːz/",
+   "zh": "这些"
+  },
+  "antennas": {
+   "ipa": "/ænˈtenəz/",
+   "zh": "天线（多个）"
+  },
+  "have": {
+   "ipa": "/hæv/",
+   "zh": "有（多个东西 / 我们 / 你做主语时用）"
+  },
+  "wide": {
+   "ipa": "/waɪd/",
+   "zh": "宽的"
+  },
+  "of": {
+   "ipa": "/əv/",
+   "zh": "……的（the X of Y = Y 的 X）"
+  },
+  "sample": {
+   "ipa": "/ˈsæmpl/",
+   "zh": "样机；样品"
+  },
+  "efficiency": {
+   "ipa": "/ɪˈfɪʃnsi/",
+   "zh": "效率"
+  },
+  "today": {
+   "ipa": "/təˈdeɪ/",
+   "zh": "今天"
+  },
+  "are": {
+   "ipa": "/ɑːr/",
+   "zh": "是（现在，多个东西）"
+  },
+  "results": {
+   "ipa": "/rɪˈzʌlts/",
+   "zh": "结果（多个）"
+  },
+  "tested": {
+   "ipa": "/ˈtestɪd/",
+   "zh": "测试了（过去）"
+  },
+  "pattern": {
+   "ipa": "/ˈpætərn/",
+   "zh": "图案；方向图"
+  },
+  "please": {
+   "ipa": "/pliːz/",
+   "zh": "请"
+  },
+  "check": {
+   "ipa": "/tʃek/",
+   "zh": "检查"
+  },
+  "measured": {
+   "ipa": "/ˈmeʒərd/",
+   "zh": "测量了（过去）"
+  },
+  "i": {
+   "ipa": "/aɪ/",
+   "zh": "我"
+  },
+  "checked": {
+   "ipa": "/tʃekt/",
+   "zh": "检查了（过去）"
+  },
+  "3": {
+   "ipa": "/θriː/",
+   "zh": "三",
+   "say": "three"
+  },
+  "report": {
+   "ipa": "/rɪˈpɔːrt/",
+   "zh": "报告"
+  },
+  "ready": {
+   "ipa": "/ˈredi/",
+   "zh": "准备好的"
+  },
+  "send": {
+   "ipa": "/send/",
+   "zh": "发送；送"
+  },
+  "lab": {
+   "ipa": "/læb/",
+   "zh": "实验室"
+  },
+  "needs": {
+   "ipa": "/niːdz/",
+   "zh": "需要（他 / 它 / 一个东西做主语时用）"
+  },
+  "tomorrow": {
+   "ipa": "/təˈmɑːroʊ/",
+   "zh": "明天"
+  },
+  "will": {
+   "ipa": "/wɪl/",
+   "zh": "将会（表示将来）"
+  },
+  "chamber": {
+   "ipa": "/ˈtʃeɪmbər/",
+   "zh": "暗室（测试用）"
+  },
+  "cable": {
+   "ipa": "/ˈkeɪbl/",
+   "zh": "线缆"
+  },
+  "can": {
+   "ipa": "/kæn/",
+   "zh": "能；可以"
+  },
+  "power": {
+   "ipa": "/ˈpaʊər/",
+   "zh": "功率"
+  },
+  "now": {
+   "ipa": "/naʊ/",
+   "zh": "现在"
+  },
+  "connector": {
+   "ipa": "/kəˈnektər/",
+   "zh": "连接器"
+  },
+  "can't": {
+   "ipa": "/kænt/",
+   "zh": "不能（= cannot）"
+  },
+  "it": {
+   "ipa": "/ɪt/",
+   "zh": "它"
+  },
+  "you": {
+   "ipa": "/juː/",
+   "zh": "你"
+  },
+  "help": {
+   "ipa": "/help/",
+   "zh": "帮助"
+  },
+  "me": {
+   "ipa": "/miː/",
+   "zh": "我（放在动词后面时用）"
+  },
+  "be": {
+   "ipa": "/biː/",
+   "zh": "是（is/are 的原形，放在 will、can 后面）"
+  },
+  "signal": {
+   "ipa": "/ˈsɪɡnəl/",
+   "zh": "信号"
+  },
+  "board": {
+   "ipa": "/bɔːrd/",
+   "zh": "板子（电路板）"
+  },
+  "yes": {
+   "ipa": "/jes/",
+   "zh": "是的"
+  },
+  "no": {
+   "ipa": "/noʊ/",
+   "zh": "不，不是"
+  },
+  "not": {
+   "ipa": "/nɑːt/",
+   "zh": "不（放在 is 后面）"
+  },
+  "they": {
+   "ipa": "/ðeɪ/",
+   "zh": "它们 / 他们"
+  },
+  "band": {
+   "ipa": "/bænd/",
+   "zh": "频段"
+  },
+  "bands": {
+   "ipa": "/bændz/",
+   "zh": "频段（多个）"
+  },
+  "port": {
+   "ipa": "/pɔːrt/",
+   "zh": "端口"
+  },
+  "ports": {
+   "ipa": "/pɔːrts/",
+   "zh": "端口（多个）"
+  },
+  "problem": {
+   "ipa": "/ˈprɑːbləm/",
+   "zh": "问题"
+  },
+  "problems": {
+   "ipa": "/ˈprɑːbləmz/",
+   "zh": "问题（多个）"
+  },
+  "there": {
+   "ipa": "/ðer/",
+   "zh": "（there is / there are）有"
+  },
+  "many": {
+   "ipa": "/ˈmeni/",
+   "zh": "很多"
+  },
+  "two": {
+   "ipa": "/tuː/",
+   "zh": "二，两个"
+  },
+  "with": {
+   "ipa": "/wɪð/",
+   "zh": "和……有关；带有"
+  },
+  "on": {
+   "ipa": "/ɑːn/",
+   "zh": "在……上"
+  },
+  "value": {
+   "ipa": "/ˈvæljuː/",
+   "zh": "值；数值"
+  },
+  "loss": {
+   "ipa": "/lɔːs/",
+   "zh": "损耗"
+  },
+  "peak": {
+   "ipa": "/piːk/",
+   "zh": "峰值；最高的"
+  },
+  "what": {
+   "ipa": "/wʌt/",
+   "zh": "什么"
+  },
+  "how": {
+   "ipa": "/haʊ/",
+   "zh": "怎么样；如何"
+  },
+  "cables": {
+   "ipa": "/ˈkeɪblz/",
+   "zh": "线缆（多根）"
+  },
+  "why": {
+   "ipa": "/waɪ/",
+   "zh": "为什么"
+  },
+  "because": {
+   "ipa": "/bɪˈkɔːz/",
+   "zh": "因为"
+  },
+  "isolation": {
+   "ipa": "/ˌaɪsəˈleɪʃn/",
+   "zh": "隔离度"
+  },
+  "noise": {
+   "ipa": "/nɔɪz/",
+   "zh": "噪声"
+  },
+  "still": {
+   "ipa": "/stɪl/",
+   "zh": "仍然、还是"
+  },
+  "margin": {
+   "ipa": "/ˈmɑːrdʒɪn/",
+   "zh": "余量"
+  },
+  "limit": {
+   "ipa": "/ˈlɪmɪt/",
+   "zh": "限值、限制"
+  },
+  "too": {
+   "ipa": "/tuː/",
+   "zh": "太…（超出了）"
+  },
+  "over": {
+   "ipa": "/ˈoʊvər/",
+   "zh": "超过"
+  },
+  "fail": {
+   "ipa": "/feɪl/",
+   "zh": "不合格、失败"
+  },
+  "pass": {
+   "ipa": "/pæs/",
+   "zh": "通过、合格"
+  },
+  "meet": {
+   "ipa": "/miːt/",
+   "zh": "满足（要求）"
+  },
+  "fix": {
+   "ipa": "/fɪks/",
+   "zh": "修好、修复"
+  },
+  "again": {
+   "ipa": "/əˈɡen/",
+   "zh": "再、又"
+  },
+  "before": {
+   "ipa": "/bɪˈfɔːr/",
+   "zh": "在…之前"
+  },
+  "sar": {
+   "ipa": "/ˌes eɪ ˈɑːr/",
+   "zh": "比吸收率（SAR）",
+   "say": "S A R"
+  },
+  "certification": {
+   "ipa": "/ˌsɜːrtɪfɪˈkeɪʃn/",
+   "zh": "认证"
+  },
+  "better": {
+   "ipa": "/ˈbetər/",
+   "zh": "更好"
+  },
+  "worse": {
+   "ipa": "/wɜːrs/",
+   "zh": "更差"
+  },
+  "after": {
+   "ipa": "/ˈæftər/",
+   "zh": "在…之后"
+  },
+  "data": {
+   "ipa": "/ˈdeɪtə/",
+   "zh": "数据"
+  },
+  "compare": {
+   "ipa": "/kəmˈper/",
+   "zh": "比较、对比"
+  },
+  "than": {
+   "ipa": "/ðæn/",
+   "zh": "比（用于比较）"
+  },
+  "same": {
+   "ipa": "/seɪm/",
+   "zh": "相同的"
+  },
+  "range": {
+   "ipa": "/reɪndʒ/",
+   "zh": "范围"
+  },
+  "between": {
+   "ipa": "/bɪˈtwiːn/",
+   "zh": "在…之间"
+  },
+  "from": {
+   "ipa": "/frʌm/",
+   "zh": "从"
+  },
+  "also": {
+   "ipa": "/ˈɔːlsoʊ/",
+   "zh": "也"
+  },
+  "schedule": {
+   "ipa": "/ˈskedʒuːl/",
+   "zh": "计划、日程安排"
+  },
+  "customer": {
+   "ipa": "/ˈkʌstəmər/",
+   "zh": "客户"
+  },
+  "when": {
+   "ipa": "/wen/",
+   "zh": "什么时候"
+  },
+  "week": {
+   "ipa": "/wiːk/",
+   "zh": "周、星期"
+  },
+  "time": {
+   "ipa": "/taɪm/",
+   "zh": "时间"
+  },
+  "factory": {
+   "ipa": "/ˈfæktri/",
+   "zh": "工厂"
+  },
+  "delay": {
+   "ipa": "/dɪˈleɪ/",
+   "zh": "延期、延迟"
+  },
+  "where": {
+   "ipa": "/wer/",
+   "zh": "在哪里"
+  },
+  "here": {
+   "ipa": "/hɪr/",
+   "zh": "这里"
+  },
+  "late": {
+   "ipa": "/leɪt/",
+   "zh": "晚的、迟到"
+  },
+  "project": {
+   "ipa": "/ˈprɑːdʒekt/",
+   "zh": "项目"
+  },
+  "version": {
+   "ipa": "/ˈvɜːrʒn/",
+   "zh": "版本"
+  },
+  "which": {
+   "ipa": "/wɪtʃ/",
+   "zh": "哪一个"
+  },
+  "both": {
+   "ipa": "/boʊθ/",
+   "zh": "两个都"
+  },
+  "only": {
+   "ipa": "/ˈoʊnli/",
+   "zh": "只、仅"
+  },
+  "engineer": {
+   "ipa": "/ˌendʒɪˈnɪr/",
+   "zh": "工程师"
+  },
+  "email": {
+   "ipa": "/ˈiːmeɪl/",
+   "zh": "邮件；发邮件"
+  },
+  "who": {
+   "ipa": "/huː/",
+   "zh": "谁"
+  },
+  "know": {
+   "ipa": "/noʊ/",
+   "zh": "知道"
+  },
+  "tuning": {
+   "ipa": "/ˈtuːnɪŋ/",
+   "zh": "调谐"
+  },
+  "coupling": {
+   "ipa": "/ˈkʌplɪŋ/",
+   "zh": "耦合"
+  },
+  "status": {
+   "ipa": "/ˈsteɪtəs/",
+   "zh": "状态"
+  },
+  "much": {
+   "ipa": "/mʌtʃ/",
+   "zh": "许多、多少（修饰不可数名词）"
+  },
+  "enough": {
+   "ipa": "/ɪˈnʌf/",
+   "zh": "足够的"
+  },
+  "ground": {
+   "ipa": "/ɡraʊnd/",
+   "zh": "地（接地）"
+  },
+  "feed": {
+   "ipa": "/fiːd/",
+   "zh": "馈点；馈电"
+  },
+  "could": {
+   "ipa": "/kʊd/",
+   "zh": "能（更礼貌的 can）"
+  },
+  "update": {
+   "ipa": "/ʌpˈdeɪt/",
+   "zh": "更新"
+  },
+  "share": {
+   "ipa": "/ʃer/",
+   "zh": "分享、共享"
+  },
+  "2.0": {
+   "ipa": "/tuː pɔɪnt oʊ/",
+   "zh": "二点零",
+   "say": "two point oh"
+  },
+  "2.5": {
+   "ipa": "/tuː pɔɪnt faɪv/",
+   "zh": "二点五",
+   "say": "two point five"
+  },
+  "700": {
+   "ipa": "/ˈsevn ˈhʌndrəd/",
+   "zh": "七百",
+   "say": "seven hundred"
+  },
+  "960": {
+   "ipa": "/naɪn ˈhʌndrəd ˈsɪksti/",
+   "zh": "九百六十",
+   "say": "nine hundred sixty"
+  },
+  "and": {
+   "ipa": "/ænd/",
+   "zh": "和"
+  },
+  "at": {
+   "ipa": "/æt/",
+   "zh": "在（某个地点或时间点）"
+  },
+  "by": {
+   "ipa": "/baɪ/",
+   "zh": "通过、用（by email 用邮件）"
+  },
+  "do": {
+   "ipa": "/duː/",
+   "zh": "（帮助提问，do we need 我们需要…）"
+  },
+  "higher": {
+   "ipa": "/ˈhaɪər/",
+   "zh": "更高"
+  },
+  "knows": {
+   "ipa": "/noʊz/",
+   "zh": "知道（know 加 s）"
+  },
+  "lower": {
+   "ipa": "/ˈloʊər/",
+   "zh": "更低"
+  },
+  "monday": {
+   "ipa": "/ˈmʌndeɪ/",
+   "zh": "星期一"
+  },
+  "new": {
+   "ipa": "/nuː/",
+   "zh": "新的"
+  },
+  "next": {
+   "ipa": "/nekst/",
+   "zh": "下一个"
+  },
+  "old": {
+   "ipa": "/oʊld/",
+   "zh": "旧的"
+  },
+  "one": {
+   "ipa": "/wʌn/",
+   "zh": "一个（the old one 旧的那个）"
+  },
+  "passed": {
+   "ipa": "/pæst/",
+   "zh": "通过了、合格了（pass 的过去式）"
+  },
+  "pm": {
+   "ipa": "/ˌpiː ˈem/",
+   "zh": "下午",
+   "say": "P M"
+  },
+  "projects": {
+   "ipa": "/ˈprɑːdʒekts/",
+   "zh": "项目（复数）"
+  },
+  "return": {
+   "ipa": "/rɪˈtɜːrn/",
+   "zh": "返回（return loss 回波损耗）"
+  },
+  "samples": {
+   "ipa": "/ˈsæmplz/",
+   "zh": "样机（复数）"
+  },
+  "sure": {
+   "ipa": "/ʃʊr/",
+   "zh": "当然可以"
+  },
+  "tests": {
+   "ipa": "/tests/",
+   "zh": "测试（复数）"
+  }
+ },
+ "lessons": [
+  {
+   "id": 1,
+   "title": "be 动词 + 天线基础词",
+   "words": [
+    {
+     "en": "gain",
+     "ipa": "/ɡeɪn/",
+     "zh": "增益",
+     "ex": "The gain is 5 dBi.",
+     "exZh": "增益是 5 dBi。"
+    },
+    {
+     "en": "bandwidth",
+     "ipa": "/ˈbændwɪdθ/",
+     "zh": "带宽",
+     "ex": "The bandwidth is 100 MHz.",
+     "exZh": "带宽是 100 MHz。"
+    },
+    {
+     "en": "frequency",
+     "ipa": "/ˈfriːkwənsi/",
+     "zh": "频率",
+     "ex": "The frequency is 2.4 GHz.",
+     "exZh": "频率是 2.4 GHz。"
+    },
+    {
+     "en": "impedance matching",
+     "ipa": "/ɪmˈpiːdns ˈmætʃɪŋ/",
+     "zh": "阻抗匹配",
+     "ex": "Yesterday the impedance matching was bad.",
+     "exZh": "昨天阻抗匹配很差。"
+    },
+    {
+     "en": "radiation pattern",
+     "ipa": "/ˌreɪdiˈeɪʃn ˈpætərn/",
+     "zh": "辐射方向图",
+     "ex": "The radiation patterns were good in the last test.",
+     "exZh": "上次测试中方向图很好。"
+    },
+    {
+     "en": "improve",
+     "ipa": "/ɪmˈpruːv/",
+     "zh": "改善、提高",
+     "ex": "We need to improve the gain.",
+     "exZh": "我们需要提高增益。"
+    },
+    {
+     "en": "requirement",
+     "ipa": "/rɪˈkwaɪərmənt/",
+     "zh": "要求、指标",
+     "ex": "The result meets the requirement.",
+     "exZh": "结果满足指标要求。"
+    }
+   ],
+   "sentences": []
+  },
+  {
+   "id": 2,
+   "title": "用 has / have 描述天线",
+   "words": [
+    {
+     "en": "VSWR",
+     "ipa": "/ˌviː es ˌdʌbəljuː ˈɑːr/",
+     "zh": "电压驻波比",
+     "say": "V S W R",
+     "ex": "The VSWR is 1.5.",
+     "exZh": "驻波比是 1.5。"
+    },
+    {
+     "en": "impedance",
+     "ipa": "/ɪmˈpiːdns/",
+     "zh": "阻抗",
+     "ex": "The impedance is 50 ohms.",
+     "exZh": "阻抗是 50 欧姆。"
+    },
+    {
+     "en": "measure",
+     "ipa": "/ˈmeʒər/",
+     "zh": "测量",
+     "ex": "We measure the gain.",
+     "exZh": "我们测量增益。"
+    },
+    {
+     "en": "result",
+     "ipa": "/rɪˈzʌlt/",
+     "zh": "结果",
+     "ex": "The result is good.",
+     "exZh": "结果很好。"
+    },
+    {
+     "en": "low",
+     "ipa": "/loʊ/",
+     "zh": "低的",
+     "ex": "The VSWR is low.",
+     "exZh": "驻波比很低。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "This antenna has a high gain.",
+     "zh": "这个天线增益很高。"
+    },
+    {
+     "en": "These antennas have a wide bandwidth.",
+     "zh": "这些天线带宽很宽。"
+    },
+    {
+     "en": "The VSWR of this antenna is low.",
+     "zh": "这个天线的驻波比很低。"
+    },
+    {
+     "en": "We measure the impedance. The result is 50 ohms.",
+     "zh": "我们测量阻抗，结果是 50 欧姆。"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": "is 还是 are？看真正的主语",
+   "words": [
+    {
+     "en": "sample",
+     "ipa": "/ˈsæmpl/",
+     "zh": "样机、样品",
+     "ex": "The sample is good.",
+     "exZh": "这台样机很好。"
+    },
+    {
+     "en": "efficiency",
+     "ipa": "/ɪˈfɪʃnsi/",
+     "zh": "效率",
+     "ex": "The efficiency of this antenna is high.",
+     "exZh": "这个天线的效率很高。"
+    },
+    {
+     "en": "test",
+     "ipa": "/test/",
+     "zh": "测试",
+     "ex": "We test the sample today.",
+     "exZh": "我们今天测试样机。"
+    },
+    {
+     "en": "today",
+     "ipa": "/təˈdeɪ/",
+     "zh": "今天",
+     "ex": "The result is good today.",
+     "exZh": "今天的结果很好。"
+    },
+    {
+     "en": "good",
+     "ipa": "/ɡʊd/",
+     "zh": "好的",
+     "ex": "The VSWR is good.",
+     "exZh": "驻波比很好。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "This antenna is good.",
+     "zh": "这个天线很好。"
+    },
+    {
+     "en": "These antennas are good.",
+     "zh": "这些天线很好。"
+    },
+    {
+     "en": "The gain of these antennas is high.",
+     "zh": "这些天线的增益很高。"
+    },
+    {
+     "en": "The results of the test are good.",
+     "zh": "这次测试的结果很好。"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": "用 -ed 说做过的事（过去时）",
+   "words": [
+    {
+     "en": "radiation",
+     "ipa": "/ˌreɪdiˈeɪʃn/",
+     "zh": "辐射",
+     "ex": "The radiation of this antenna is good.",
+     "exZh": "这个天线的辐射很好。"
+    },
+    {
+     "en": "pattern",
+     "ipa": "/ˈpætərn/",
+     "zh": "图案、方向图",
+     "ex": "We tested the radiation pattern.",
+     "exZh": "我们测了辐射方向图。"
+    },
+    {
+     "en": "check",
+     "ipa": "/tʃek/",
+     "zh": "检查",
+     "ex": "Please check the result.",
+     "exZh": "请检查一下结果。"
+    },
+    {
+     "en": "tested",
+     "ipa": "/ˈtestɪd/",
+     "zh": "测试了",
+     "ex": "We tested the antenna yesterday.",
+     "exZh": "我们昨天测了天线。"
+    },
+    {
+     "en": "measured",
+     "ipa": "/ˈmeʒərd/",
+     "zh": "测量了",
+     "ex": "We measured the VSWR yesterday.",
+     "exZh": "我们昨天测了驻波比。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I checked the result.",
+     "zh": "我检查了结果。"
+    },
+    {
+     "en": "The gain of this antenna was 3 dBi.",
+     "zh": "这个天线的增益是 3 dBi。"
+    },
+    {
+     "en": "The results were good.",
+     "zh": "结果都很好。"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": "need to（需要做……）",
+   "words": [
+    {
+     "en": "need",
+     "ipa": "/niːd/",
+     "zh": "需要",
+     "ex": "We need to test the antenna.",
+     "exZh": "我们需要测试天线。"
+    },
+    {
+     "en": "matching",
+     "ipa": "/ˈmætʃɪŋ/",
+     "zh": "匹配",
+     "ex": "The matching of this antenna is good.",
+     "exZh": "这个天线的匹配很好。"
+    },
+    {
+     "en": "lab",
+     "ipa": "/læb/",
+     "zh": "实验室",
+     "ex": "We need to send the sample to the lab.",
+     "exZh": "我们需要把样品送到实验室。"
+    },
+    {
+     "en": "send",
+     "ipa": "/send/",
+     "zh": "发送",
+     "ex": "Please send the report today.",
+     "exZh": "请今天把报告发过来。"
+    },
+    {
+     "en": "report",
+     "ipa": "/rɪˈpɔːrt/",
+     "zh": "报告",
+     "ex": "The test report is ready.",
+     "exZh": "测试报告准备好了。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We need to measure the VSWR.",
+     "zh": "我们需要测驻波比。"
+    },
+    {
+     "en": "I need to check the radiation pattern.",
+     "zh": "我需要检查辐射方向图。"
+    },
+    {
+     "en": "The lab needs to send the report tomorrow.",
+     "zh": "实验室需要明天把报告发来。"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": "will（将会）说明天的事",
+   "words": [
+    {
+     "en": "chamber",
+     "ipa": "/ˈtʃeɪmbər/",
+     "zh": "暗室",
+     "ex": "We will test the antenna in the chamber.",
+     "exZh": "我们会在暗室里测天线。"
+    },
+    {
+     "en": "cable",
+     "ipa": "/ˈkeɪbl/",
+     "zh": "线缆",
+     "ex": "Please check the cable.",
+     "exZh": "请检查一下线缆。"
+    },
+    {
+     "en": "will",
+     "ipa": "/wɪl/",
+     "zh": "将会",
+     "ex": "We will measure the gain.",
+     "exZh": "我们会测增益。"
+    },
+    {
+     "en": "tomorrow",
+     "ipa": "/təˈmɑːroʊ/",
+     "zh": "明天",
+     "ex": "We will send the report tomorrow.",
+     "exZh": "我们明天会发报告。"
+    },
+    {
+     "en": "ready",
+     "ipa": "/ˈredi/",
+     "zh": "准备好的",
+     "ex": "The sample is ready.",
+     "exZh": "样机准备好了。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We will test the sample tomorrow.",
+     "zh": "我们明天会测样机。"
+    },
+    {
+     "en": "The report will be ready tomorrow.",
+     "zh": "报告明天会准备好。"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": "can / can't（能 / 不能）",
+   "words": [
+    {
+     "en": "power",
+     "ipa": "/ˈpaʊər/",
+     "zh": "功率",
+     "ex": "We can measure the power now.",
+     "exZh": "我们现在能测功率。"
+    },
+    {
+     "en": "connector",
+     "ipa": "/kəˈnektər/",
+     "zh": "连接器",
+     "ex": "Please check the connector.",
+     "exZh": "请检查一下连接器。"
+    },
+    {
+     "en": "can",
+     "ipa": "/kæn/",
+     "zh": "能",
+     "ex": "We can test the antenna today.",
+     "exZh": "我们今天能测天线。"
+    },
+    {
+     "en": "please",
+     "ipa": "/pliːz/",
+     "zh": "请",
+     "ex": "Please send the report.",
+     "exZh": "请发一下报告。"
+    },
+    {
+     "en": "now",
+     "ipa": "/naʊ/",
+     "zh": "现在",
+     "ex": "I can't send it now.",
+     "exZh": "我现在发不了它。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Can you help me?",
+     "zh": "你能帮我吗？"
+    },
+    {
+     "en": "The power of this antenna is high.",
+     "zh": "这个天线的功率很高。"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Is ...? 一般疑问句（问“是不是”）",
+   "words": [
+    {
+     "en": "signal",
+     "ipa": "/ˈsɪɡnəl/",
+     "zh": "信号",
+     "ex": "The signal is good now.",
+     "exZh": "现在信号很好。"
+    },
+    {
+     "en": "board",
+     "ipa": "/bɔːrd/",
+     "zh": "板子（电路板）",
+     "ex": "Is the board ready?",
+     "exZh": "板子准备好了吗？"
+    },
+    {
+     "en": "yes",
+     "ipa": "/jes/",
+     "zh": "是的",
+     "ex": "Yes, it is.",
+     "exZh": "是的，好了。"
+    },
+    {
+     "en": "no",
+     "ipa": "/noʊ/",
+     "zh": "不，不是",
+     "ex": "No, it is not ready.",
+     "exZh": "不，它还没准备好。"
+    },
+    {
+     "en": "not",
+     "ipa": "/nɑːt/",
+     "zh": "不（放在 is 后面）",
+     "ex": "The VSWR is not good.",
+     "exZh": "驻波比不好。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Is the cable ready?",
+     "zh": "线准备好了吗？"
+    },
+    {
+     "en": "Are the antennas ready?",
+     "zh": "这些天线准备好了吗？"
+    },
+    {
+     "en": "Yes, they are.",
+     "zh": "是的，好了。"
+    },
+    {
+     "en": "Was the result good yesterday?",
+     "zh": "昨天的结果好吗？"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": "There is / There are（有……）",
+   "words": [
+    {
+     "en": "band",
+     "ipa": "/bænd/",
+     "zh": "频段",
+     "ex": "This antenna has two bands.",
+     "exZh": "这个天线有两个频段。"
+    },
+    {
+     "en": "port",
+     "ipa": "/pɔːrt/",
+     "zh": "端口",
+     "ex": "There are two ports on the board.",
+     "exZh": "板子上有两个端口。"
+    },
+    {
+     "en": "problem",
+     "ipa": "/ˈprɑːbləm/",
+     "zh": "问题",
+     "ex": "There is a problem with the cable.",
+     "exZh": "这根线有问题。"
+    },
+    {
+     "en": "there",
+     "ipa": "/ðer/",
+     "zh": "（there is / there are）有",
+     "ex": "There is a signal now.",
+     "exZh": "现在有信号了。"
+    },
+    {
+     "en": "many",
+     "ipa": "/ˈmeni/",
+     "zh": "很多",
+     "ex": "There are many antennas in the lab.",
+     "exZh": "实验室里有很多天线。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "There is a problem with the VSWR.",
+     "zh": "驻波比有问题。"
+    },
+    {
+     "en": "There are many problems with the board.",
+     "zh": "这块板子有很多问题。"
+    },
+    {
+     "en": "Is there a signal now?",
+     "zh": "现在有信号吗？"
+    },
+    {
+     "en": "Yes, there is.",
+     "zh": "是的，有。"
+    },
+    {
+     "en": "The gain of these bands is high.",
+     "zh": "这些频段的增益很高。"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": "What is ...? 问数值（特殊疑问句）",
+   "words": [
+    {
+     "en": "value",
+     "ipa": "/ˈvæljuː/",
+     "zh": "值、数值",
+     "ex": "The value is 1.5.",
+     "exZh": "数值是 1.5。"
+    },
+    {
+     "en": "loss",
+     "ipa": "/lɔːs/",
+     "zh": "损耗",
+     "ex": "The loss of this cable is low.",
+     "exZh": "这根线的损耗很低。"
+    },
+    {
+     "en": "peak",
+     "ipa": "/piːk/",
+     "zh": "峰值",
+     "ex": "The peak gain is 5 dBi.",
+     "exZh": "峰值增益是 5 dBi。"
+    },
+    {
+     "en": "what",
+     "ipa": "/wʌt/",
+     "zh": "什么",
+     "ex": "What is the VSWR?",
+     "exZh": "驻波比是多少？"
+    },
+    {
+     "en": "how",
+     "ipa": "/haʊ/",
+     "zh": "怎么样",
+     "ex": "How is the signal now?",
+     "exZh": "现在信号怎么样？"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "What is the frequency? It is 2.4 GHz.",
+     "zh": "频率是多少？是 2.4 GHz。"
+    },
+    {
+     "en": "What is the peak gain of this antenna?",
+     "zh": "这个天线的峰值增益是多少？"
+    },
+    {
+     "en": "What are the results? They are good.",
+     "zh": "结果怎么样（是什么）？结果很好。"
+    },
+    {
+     "en": "How is the matching? It is not good.",
+     "zh": "匹配怎么样？不太好。"
+    },
+    {
+     "en": "The loss of these cables is low.",
+     "zh": "这些线的损耗很低。"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Why ...? Because ...（问原因）",
+   "words": [
+    {
+     "en": "isolation",
+     "ipa": "/ˌaɪsəˈleɪʃn/",
+     "zh": "隔离度",
+     "ex": "The isolation is high.",
+     "exZh": "隔离度很高。"
+    },
+    {
+     "en": "noise",
+     "ipa": "/nɔɪz/",
+     "zh": "噪声",
+     "ex": "The noise is low.",
+     "exZh": "噪声很低。"
+    },
+    {
+     "en": "why",
+     "ipa": "/waɪ/",
+     "zh": "为什么",
+     "ex": "Why is the VSWR high?",
+     "exZh": "为什么驻波比很高？"
+    },
+    {
+     "en": "because",
+     "ipa": "/bɪˈkɔːz/",
+     "zh": "因为",
+     "ex": "Because the matching is bad.",
+     "exZh": "因为匹配很差。"
+    },
+    {
+     "en": "still",
+     "ipa": "/stɪl/",
+     "zh": "仍然、还是",
+     "ex": "The problem is still there.",
+     "exZh": "问题还在。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Why is the VSWR high?",
+     "zh": "为什么驻波比很高？"
+    },
+    {
+     "en": "Because the matching is bad.",
+     "zh": "因为匹配很差。"
+    },
+    {
+     "en": "Why is the noise high? Because the isolation is low.",
+     "zh": "为什么噪声很高？因为隔离度很低。"
+    },
+    {
+     "en": "The isolation of these ports is still high.",
+     "zh": "这些端口的隔离度仍然很高。"
+    },
+    {
+     "en": "Why is the loss high? Because the cable is bad.",
+     "zh": "为什么损耗很高？因为线缆很差。"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": "too high / too low（太高了 / 太低了）",
+   "words": [
+    {
+     "en": "margin",
+     "ipa": "/ˈmɑːrdʒɪn/",
+     "zh": "余量",
+     "ex": "The margin is too low.",
+     "exZh": "余量太低了。"
+    },
+    {
+     "en": "limit",
+     "ipa": "/ˈlɪmɪt/",
+     "zh": "限值、限制",
+     "ex": "The VSWR is over the limit.",
+     "exZh": "驻波比超过限值了。"
+    },
+    {
+     "en": "too",
+     "ipa": "/tuː/",
+     "zh": "太…（超出了）",
+     "ex": "The noise is too high.",
+     "exZh": "噪声太高了。"
+    },
+    {
+     "en": "over",
+     "ipa": "/ˈoʊvər/",
+     "zh": "超过",
+     "ex": "The value is over the limit.",
+     "exZh": "数值超过限值了。"
+    },
+    {
+     "en": "fail",
+     "ipa": "/feɪl/",
+     "zh": "不合格、失败",
+     "ex": "The sample will fail the test.",
+     "exZh": "这台样机会测试不合格。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The VSWR is too high.",
+     "zh": "驻波比太高了。"
+    },
+    {
+     "en": "The isolation of these ports is still high.",
+     "zh": "这些端口的隔离度仍然很高。"
+    },
+    {
+     "en": "The margin of these bands is too low.",
+     "zh": "这些频段的余量太低了。"
+    },
+    {
+     "en": "The noise is over the limit.",
+     "zh": "噪声超过限值了。"
+    },
+    {
+     "en": "The sample will fail because the matching is bad.",
+     "zh": "因为匹配很差，这台样机会测试不合格。"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": "pass / meet 合格与满足",
+   "words": [
+    {
+     "en": "pass",
+     "ipa": "/pæs/",
+     "zh": "通过、合格",
+     "ex": "The sample passed the test.",
+     "exZh": "这台样机测试合格了。"
+    },
+    {
+     "en": "meet",
+     "ipa": "/miːt/",
+     "zh": "满足（要求）",
+     "ex": "The result meets the requirement.",
+     "exZh": "结果满足要求。"
+    },
+    {
+     "en": "fix",
+     "ipa": "/fɪks/",
+     "zh": "修好、修复",
+     "ex": "We need to fix the matching.",
+     "exZh": "我们需要修好匹配。"
+    },
+    {
+     "en": "again",
+     "ipa": "/əˈɡen/",
+     "zh": "再、又",
+     "ex": "Please test it again.",
+     "exZh": "请再测一次。"
+    },
+    {
+     "en": "before",
+     "ipa": "/bɪˈfɔːr/",
+     "zh": "在…之前",
+     "ex": "Check the cable before the test.",
+     "exZh": "测试之前先检查线缆。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The sample passed the test yesterday.",
+     "zh": "这台样机昨天测试合格了。"
+    },
+    {
+     "en": "The VSWR meets the requirement.",
+     "zh": "驻波比满足要求。"
+    },
+    {
+     "en": "We need to fix the matching again.",
+     "zh": "我们需要再修一次匹配。"
+    },
+    {
+     "en": "Please check the cable before the test.",
+     "zh": "测试之前请检查线缆。"
+    },
+    {
+     "en": "The margin of these bands is still too low.",
+     "zh": "这些频段的余量还是太低。"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": "better / worse + after（更好 / 更差 + 在…之后）",
+   "words": [
+    {
+     "en": "SAR",
+     "ipa": "/ˌes eɪ ˈɑːr/",
+     "zh": "比吸收率（SAR）",
+     "say": "S A R",
+     "ex": "The SAR is low.",
+     "exZh": "SAR 很低。"
+    },
+    {
+     "en": "certification",
+     "ipa": "/ˌsɜːrtɪfɪˈkeɪʃn/",
+     "zh": "认证",
+     "ex": "We need the certification.",
+     "exZh": "我们需要这份认证。"
+    },
+    {
+     "en": "better",
+     "ipa": "/ˈbetər/",
+     "zh": "更好",
+     "ex": "The matching is better now.",
+     "exZh": "现在匹配更好了。"
+    },
+    {
+     "en": "worse",
+     "ipa": "/wɜːrs/",
+     "zh": "更差",
+     "ex": "The VSWR is worse today.",
+     "exZh": "今天驻波比更差了。"
+    },
+    {
+     "en": "after",
+     "ipa": "/ˈæftər/",
+     "zh": "在…之后",
+     "ex": "After we fix it, the result is better.",
+     "exZh": "我们修好之后，结果更好了。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The SAR is better after the fix.",
+     "zh": "修好之后 SAR 更好了。"
+    },
+    {
+     "en": "The result is worse today.",
+     "zh": "今天结果更差了。"
+    },
+    {
+     "en": "After we fix the cable, we will test again.",
+     "zh": "修好线缆之后，我们会再测一次。"
+    },
+    {
+     "en": "The certification needs a low SAR.",
+     "zh": "认证需要低的 SAR。"
+    },
+    {
+     "en": "The gain of these antennas is better now.",
+     "zh": "这些天线的增益现在更好了。"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": "than 比较：higher than / lower than",
+   "words": [
+    {
+     "en": "antenna",
+     "ipa": "/ænˈtenə/",
+     "zh": "天线",
+     "ex": "The new antenna is better.",
+     "exZh": "新天线更好。"
+    },
+    {
+     "en": "data",
+     "ipa": "/ˈdeɪtə/",
+     "zh": "数据",
+     "ex": "Please send the data today.",
+     "exZh": "请今天把数据发过来。"
+    },
+    {
+     "en": "compare",
+     "ipa": "/kəmˈper/",
+     "zh": "比较、对比",
+     "ex": "We need to compare the two samples.",
+     "exZh": "我们需要对比这两台样机。"
+    },
+    {
+     "en": "than",
+     "ipa": "/ðæn/",
+     "zh": "比（用于比较）",
+     "ex": "The gain is higher than before.",
+     "exZh": "增益比之前高。"
+    },
+    {
+     "en": "same",
+     "ipa": "/seɪm/",
+     "zh": "相同的",
+     "ex": "The result is the same.",
+     "exZh": "结果是一样的。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The gain is higher than before.",
+     "zh": "增益比之前高。"
+    },
+    {
+     "en": "The VSWR of the new antenna is lower than the old one.",
+     "zh": "新天线的驻波比比旧的低。"
+    },
+    {
+     "en": "The SAR is better than the limit.",
+     "zh": "SAR 比限值要好。"
+    },
+    {
+     "en": "After we fix the matching, the efficiency is the same.",
+     "zh": "修好匹配之后，效率还是一样。"
+    },
+    {
+     "en": "Please compare the data before and after.",
+     "zh": "请对比一下前后的数据。"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "title": "from ... to ... / between ... and ...（频段范围）",
+   "words": [
+    {
+     "en": "return loss",
+     "ipa": "/rɪˈtɜːrn lɔːs/",
+     "zh": "回波损耗",
+     "ex": "The return loss is high.",
+     "exZh": "回波损耗很高。"
+    },
+    {
+     "en": "range",
+     "ipa": "/reɪndʒ/",
+     "zh": "范围",
+     "ex": "The frequency range is good.",
+     "exZh": "频率范围不错。"
+    },
+    {
+     "en": "between",
+     "ipa": "/bɪˈtwiːn/",
+     "zh": "在…之间",
+     "ex": "The value is between 1.5 and 2.0.",
+     "exZh": "数值在 1.5 和 2.0 之间。"
+    },
+    {
+     "en": "from",
+     "ipa": "/frʌm/",
+     "zh": "从",
+     "ex": "From 2.4 GHz to 2.5 GHz, the gain is high.",
+     "exZh": "从 2.4 到 2.5 GHz，增益很高。"
+    },
+    {
+     "en": "also",
+     "ipa": "/ˈɔːlsoʊ/",
+     "zh": "也",
+     "ex": "The VSWR is good. The return loss is also good.",
+     "exZh": "驻波比很好。回波损耗也很好。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "From 700 MHz to 960 MHz, the VSWR is low.",
+     "zh": "从 700 到 960 MHz，驻波比很低。"
+    },
+    {
+     "en": "The frequency is between 2.4 GHz and 2.5 GHz.",
+     "zh": "频率在 2.4 和 2.5 GHz 之间。"
+    },
+    {
+     "en": "The return loss of this antenna is better than before.",
+     "zh": "这副天线的回波损耗比之前更好。"
+    },
+    {
+     "en": "We also need to check the range.",
+     "zh": "我们也需要检查一下范围。"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "title": "When ...? 问时间：on Monday / next week",
+   "words": [
+    {
+     "en": "schedule",
+     "ipa": "/ˈskedʒuːl/",
+     "zh": "计划、日程安排",
+     "ex": "The schedule is ready.",
+     "exZh": "计划已经排好了。"
+    },
+    {
+     "en": "customer",
+     "ipa": "/ˈkʌstəmər/",
+     "zh": "客户",
+     "ex": "The customer needs the report.",
+     "exZh": "客户需要这份报告。"
+    },
+    {
+     "en": "when",
+     "ipa": "/wen/",
+     "zh": "什么时候",
+     "ex": "When will the lab test the sample?",
+     "exZh": "实验室什么时候测样机？"
+    },
+    {
+     "en": "week",
+     "ipa": "/wiːk/",
+     "zh": "周、星期",
+     "ex": "The customer will check the data next week.",
+     "exZh": "客户下周会检查数据。"
+    },
+    {
+     "en": "time",
+     "ipa": "/taɪm/",
+     "zh": "时间",
+     "ex": "What time is the test?",
+     "exZh": "测试是几点？"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "When will the lab test the sample?",
+     "zh": "实验室什么时候测样机？"
+    },
+    {
+     "en": "The lab will test it on Monday.",
+     "zh": "实验室周一测。"
+    },
+    {
+     "en": "What time is the test? It is at 3 pm.",
+     "zh": "测试几点？下午3点。"
+    },
+    {
+     "en": "The customer will check the report next week.",
+     "zh": "客户下周会检查报告。"
+    },
+    {
+     "en": "The schedule of these tests is ready.",
+     "zh": "这些测试的计划排好了。"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Where ...? 问地点：here / at the factory",
+   "words": [
+    {
+     "en": "factory",
+     "ipa": "/ˈfæktri/",
+     "zh": "工厂",
+     "ex": "The sample is at the factory.",
+     "exZh": "样机在工厂。"
+    },
+    {
+     "en": "delay",
+     "ipa": "/dɪˈleɪ/",
+     "zh": "延期、延迟",
+     "ex": "The test has a delay.",
+     "exZh": "测试延期了。"
+    },
+    {
+     "en": "where",
+     "ipa": "/wer/",
+     "zh": "在哪里",
+     "ex": "Where is the sample?",
+     "exZh": "样机在哪里？"
+    },
+    {
+     "en": "here",
+     "ipa": "/hɪr/",
+     "zh": "这里",
+     "ex": "The sample is here.",
+     "exZh": "样机在这里。"
+    },
+    {
+     "en": "late",
+     "ipa": "/leɪt/",
+     "zh": "晚的、迟到",
+     "ex": "The report is late.",
+     "exZh": "报告晚了。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Where is the sample? It is here.",
+     "zh": "样机在哪里？它在这里。"
+    },
+    {
+     "en": "Where will we test the antenna? In the chamber.",
+     "zh": "我们会在哪里测天线？在暗室里。"
+    },
+    {
+     "en": "The sample is at the factory.",
+     "zh": "样机在工厂。"
+    },
+    {
+     "en": "The test has a delay. The report is late.",
+     "zh": "测试延期了。报告晚了。"
+    },
+    {
+     "en": "Where is the customer now? The customer is in the lab.",
+     "zh": "客户现在在哪里？客户在实验室。"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Which ...? 问选择：which band / which version",
+   "words": [
+    {
+     "en": "project",
+     "ipa": "/ˈprɑːdʒekt/",
+     "zh": "项目",
+     "ex": "This project needs certification.",
+     "exZh": "这个项目需要认证。"
+    },
+    {
+     "en": "version",
+     "ipa": "/ˈvɜːrʒn/",
+     "zh": "版本",
+     "ex": "Which version will we test?",
+     "exZh": "我们会测哪个版本？"
+    },
+    {
+     "en": "which",
+     "ipa": "/wɪtʃ/",
+     "zh": "哪一个",
+     "ex": "Which sample is ready?",
+     "exZh": "哪台样机准备好了？"
+    },
+    {
+     "en": "both",
+     "ipa": "/boʊθ/",
+     "zh": "两个都",
+     "ex": "Both samples passed the test.",
+     "exZh": "两台样机都测试合格了。"
+    },
+    {
+     "en": "only",
+     "ipa": "/ˈoʊnli/",
+     "zh": "只、仅",
+     "ex": "Only this band is good.",
+     "exZh": "只有这个频段不错。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Which sample is at the factory?",
+     "zh": "哪台样机在工厂？"
+    },
+    {
+     "en": "Which version will we test tomorrow?",
+     "zh": "我们明天会测哪个版本？"
+    },
+    {
+     "en": "Which band has a delay?",
+     "zh": "哪个频段延期了？"
+    },
+    {
+     "en": "Both projects need the report.",
+     "zh": "两个项目都需要这份报告。"
+    },
+    {
+     "en": "Only this antenna passed the test.",
+     "zh": "只有这副天线测试合格了。"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Who ...? 问人：who will test / who knows",
+   "words": [
+    {
+     "en": "engineer",
+     "ipa": "/ˌendʒɪˈnɪr/",
+     "zh": "工程师",
+     "ex": "The engineer will test the sample.",
+     "exZh": "工程师会测试样机。"
+    },
+    {
+     "en": "email",
+     "ipa": "/ˈiːmeɪl/",
+     "zh": "邮件；发邮件",
+     "ex": "Please send the report by email.",
+     "exZh": "请用邮件发送报告。"
+    },
+    {
+     "en": "who",
+     "ipa": "/huː/",
+     "zh": "谁",
+     "ex": "Who will check the data?",
+     "exZh": "谁会检查数据？"
+    },
+    {
+     "en": "know",
+     "ipa": "/noʊ/",
+     "zh": "知道",
+     "ex": "I know the schedule.",
+     "exZh": "我知道日程安排。"
+    },
+    {
+     "en": "help",
+     "ipa": "/help/",
+     "zh": "帮助",
+     "ex": "Can you help me?",
+     "exZh": "你能帮我吗？"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Who will test the antenna? The engineer will.",
+     "zh": "谁会测天线？工程师会。"
+    },
+    {
+     "en": "Who knows the schedule? I know.",
+     "zh": "谁知道日程安排？我知道。"
+    },
+    {
+     "en": "Who will send the email? I will.",
+     "zh": "谁会发邮件？我会。"
+    },
+    {
+     "en": "Can you help me check the data?",
+     "zh": "你能帮我检查一下数据吗？"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "title": "How many / How much 问数量",
+   "words": [
+    {
+     "en": "tuning",
+     "ipa": "/ˈtuːnɪŋ/",
+     "zh": "调谐",
+     "ex": "The tuning is not good.",
+     "exZh": "调谐不好。"
+    },
+    {
+     "en": "coupling",
+     "ipa": "/ˈkʌplɪŋ/",
+     "zh": "耦合",
+     "ex": "The coupling is too high.",
+     "exZh": "耦合太高了。"
+    },
+    {
+     "en": "status",
+     "ipa": "/ˈsteɪtəs/",
+     "zh": "状态",
+     "ex": "What is the status of the project?",
+     "exZh": "这个项目的状态是什么？"
+    },
+    {
+     "en": "much",
+     "ipa": "/mʌtʃ/",
+     "zh": "许多、多少（修饰不可数名词）",
+     "ex": "How much time do we need?",
+     "exZh": "我们需要多少时间？"
+    },
+    {
+     "en": "enough",
+     "ipa": "/ɪˈnʌf/",
+     "zh": "足够的",
+     "ex": "We have enough samples.",
+     "exZh": "我们有足够的样机。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "How many samples are ready?",
+     "zh": "有多少台样机准备好了？"
+    },
+    {
+     "en": "How much time do we need?",
+     "zh": "我们需要多少时间？"
+    },
+    {
+     "en": "We have enough cables now.",
+     "zh": "我们现在有足够的线缆。"
+    },
+    {
+     "en": "The coupling of these ports is too high.",
+     "zh": "这些端口的耦合太高了。"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Could you ...? 礼貌请求",
+   "words": [
+    {
+     "en": "ground",
+     "ipa": "/ɡraʊnd/",
+     "zh": "地（接地）",
+     "ex": "Could you check the ground?",
+     "exZh": "你能检查一下接地吗？"
+    },
+    {
+     "en": "feed",
+     "ipa": "/fiːd/",
+     "zh": "馈点；馈电",
+     "ex": "The feed of the antenna is here.",
+     "exZh": "天线的馈点在这里。"
+    },
+    {
+     "en": "could",
+     "ipa": "/kʊd/",
+     "zh": "能（更礼貌的 can）",
+     "ex": "Could you send the report today?",
+     "exZh": "你今天能发一下报告吗？"
+    },
+    {
+     "en": "update",
+     "ipa": "/ʌpˈdeɪt/",
+     "zh": "更新",
+     "ex": "Could you update the schedule?",
+     "exZh": "你能更新一下日程吗？"
+    },
+    {
+     "en": "share",
+     "ipa": "/ʃer/",
+     "zh": "分享、共享",
+     "ex": "Could you share the data with the customer?",
+     "exZh": "你能把数据分享给客户吗？"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Could you check the feed of the antenna?",
+     "zh": "你能检查一下天线的馈点吗？"
+    },
+    {
+     "en": "Could you update the data after the test?",
+     "zh": "测试后你能更新一下数据吗？"
+    },
+    {
+     "en": "Could you share the report by email?",
+     "zh": "你能用邮件分享一下报告吗？"
+    },
+    {
+     "en": "Could you help me? Sure.",
+     "zh": "你能帮我一下吗？当然。"
+    },
+    {
+     "en": "The coupling is too high. Could you check the ground?",
+     "zh": "耦合太高了，你能检查一下接地吗？"
+    }
+   ]
+  }
+ ]
+}
