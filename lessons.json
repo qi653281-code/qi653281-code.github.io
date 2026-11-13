@@ -645,6 +645,26 @@
    "ipa": "/ʃer/",
    "zh": "分享、共享"
   },
+  "metal": {
+   "ipa": "/ˈmetl/",
+   "zh": "金属"
+  },
+  "meeting": {
+   "ipa": "/ˈmiːtɪŋ/",
+   "zh": "会议"
+  },
+  "think": {
+   "ipa": "/θɪŋk/",
+   "zh": "认为、觉得"
+  },
+  "agree": {
+   "ipa": "/əˈɡriː/",
+   "zh": "同意"
+  },
+  "maybe": {
+   "ipa": "/ˈmeɪbi/",
+   "zh": "也许、可能"
+  },
   "2.0": {
    "ipa": "/tuː pɔɪnt oʊ/",
    "zh": "二点零",
@@ -741,6 +761,10 @@
   "tests": {
    "ipa": "/tests/",
    "zh": "测试（复数）"
+  },
+  "near": {
+   "ipa": "/nɪr/",
+   "zh": "在……附近"
   }
  },
  "lessons": [
@@ -2058,6 +2082,69 @@
     {
      "en": "The coupling is too high. Could you check the ground?",
      "zh": "耦合太高了，你能检查一下接地吗？"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "title": "I think ... / I agree 开会表达看法",
+   "words": [
+    {
+     "en": "metal",
+     "ipa": "/ˈmetl/",
+     "zh": "金属",
+     "ex": "There is metal near the antenna.",
+     "exZh": "天线附近有金属。"
+    },
+    {
+     "en": "meeting",
+     "ipa": "/ˈmiːtɪŋ/",
+     "zh": "会议",
+     "ex": "We will have a meeting tomorrow.",
+     "exZh": "我们明天要开个会。"
+    },
+    {
+     "en": "think",
+     "ipa": "/θɪŋk/",
+     "zh": "认为、觉得",
+     "ex": "I think the matching is bad.",
+     "exZh": "我觉得匹配不好。"
+    },
+    {
+     "en": "agree",
+     "ipa": "/əˈɡriː/",
+     "zh": "同意",
+     "ex": "I agree with you.",
+     "exZh": "我同意你的看法。"
+    },
+    {
+     "en": "maybe",
+     "ipa": "/ˈmeɪbi/",
+     "zh": "也许、可能",
+     "ex": "Maybe the cable is bad.",
+     "exZh": "也许是线缆坏了。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I think the VSWR is too high.",
+     "zh": "我觉得驻波比太高了。"
+    },
+    {
+     "en": "I agree. We need to fix the matching.",
+     "zh": "我同意。我们需要修好匹配。"
+    },
+    {
+     "en": "Maybe the metal is the problem.",
+     "zh": "也许金属就是问题所在。"
+    },
+    {
+     "en": "Could you check the feed after the meeting?",
+     "zh": "会后你能检查一下馈点吗？"
+    },
+    {
+     "en": "I think the gain of these antennas is low.",
+     "zh": "我觉得这些天线的增益很低。"
     }
    ]
   }
