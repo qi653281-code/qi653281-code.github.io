@@ -765,6 +765,30 @@
   "near": {
    "ipa": "/nɪr/",
    "zh": "在……附近"
+  },
+  "calibration": {
+   "ipa": "/ˌkælɪˈbreɪʃn/",
+   "zh": "校准"
+  },
+  "setup": {
+   "ipa": "/ˈsetʌp/",
+   "zh": "测试搭建、测试环境"
+  },
+  "did": {
+   "ipa": "/dɪd/",
+   "zh": "做了（do 的过去式）"
+  },
+  "already": {
+   "ipa": "/ɔːlˈredi/",
+   "zh": "已经"
+  },
+  "yet": {
+   "ipa": "/jet/",
+   "zh": "还（没）；已经（问句）"
+  },
+  "didn't": {
+   "ipa": "/ˈdɪdnt/",
+   "zh": "没有（did not）"
   }
  },
  "lessons": [
@@ -2145,6 +2169,69 @@
     {
      "en": "I think the gain of these antennas is low.",
      "zh": "我觉得这些天线的增益很低。"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Did you ...? 问“做了没有”",
+   "words": [
+    {
+     "en": "calibration",
+     "ipa": "/ˌkælɪˈbreɪʃn/",
+     "zh": "校准",
+     "ex": "We need to do the calibration before the test.",
+     "exZh": "测试前我们需要做校准。"
+    },
+    {
+     "en": "setup",
+     "ipa": "/ˈsetʌp/",
+     "zh": "测试搭建、测试环境",
+     "ex": "The setup in the chamber is ready.",
+     "exZh": "暗室里的测试环境准备好了。"
+    },
+    {
+     "en": "did",
+     "ipa": "/dɪd/",
+     "zh": "做了（do 的过去式；也用来问过去的事）",
+     "ex": "Did you send the report?",
+     "exZh": "你发报告了吗？"
+    },
+    {
+     "en": "already",
+     "ipa": "/ɔːlˈredi/",
+     "zh": "已经",
+     "ex": "We already checked the cable.",
+     "exZh": "我们已经检查过线缆了。"
+    },
+    {
+     "en": "yet",
+     "ipa": "/jet/",
+     "zh": "还（没）；（问句里）已经",
+     "ex": "The data is not ready yet.",
+     "exZh": "数据还没准备好。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Did you check the cable? Yes, I did.",
+     "zh": "你检查线缆了吗？是的，检查了。"
+    },
+    {
+     "en": "Did the sample pass the test? No, it didn't.",
+     "zh": "样机通过测试了吗？没有，没通过。"
+    },
+    {
+     "en": "We already did the calibration.",
+     "zh": "我们已经做过校准了。"
+    },
+    {
+     "en": "Did you update the schedule yet?",
+     "zh": "你已经更新计划表了吗？"
+    },
+    {
+     "en": "The setup of these tests is ready.",
+     "zh": "这些测试的测试环境准备好了。"
     }
    ]
   }
