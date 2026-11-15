@@ -789,6 +789,31 @@
   "didn't": {
    "ipa": "/ˈdɪdnt/",
    "zh": "没有（did not）"
+  },
+  "shielding": {
+   "ipa": "/ˈʃiːldɪŋ/",
+   "zh": "屏蔽"
+  },
+  "interference": {
+   "ipa": "/ˌɪntərˈfɪrəns/",
+   "zh": "干扰"
+  },
+  "should": {
+   "ipa": "/ʃʊd/",
+   "zh": "应该"
+  },
+  "start": {
+   "ipa": "/stɑːrt/",
+   "zh": "开始"
+  },
+  "later": {
+   "ipa": "/ˈleɪtər/",
+   "zh": "稍后、以后"
+  },
+  "boards": {
+   "ipa": "/bɔːrdz/",
+   "zh": "板子（复数）",
+   "say": "boards"
   }
  },
  "lessons": [
@@ -2232,6 +2257,69 @@
     {
      "en": "The setup of these tests is ready.",
      "zh": "这些测试的测试环境准备好了。"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Should ...? 建议：应该……",
+   "words": [
+    {
+     "en": "shielding",
+     "ipa": "/ˈʃiːldɪŋ/",
+     "zh": "屏蔽",
+     "ex": "We should check the shielding.",
+     "exZh": "我们应该检查一下屏蔽。"
+    },
+    {
+     "en": "interference",
+     "ipa": "/ˌɪntərˈfɪrəns/",
+     "zh": "干扰",
+     "ex": "There is interference near the antenna.",
+     "exZh": "天线附近有干扰。"
+    },
+    {
+     "en": "should",
+     "ipa": "/ʃʊd/",
+     "zh": "应该",
+     "ex": "We should start the test now.",
+     "exZh": "我们现在应该开始测试。"
+    },
+    {
+     "en": "start",
+     "ipa": "/stɑːrt/",
+     "zh": "开始",
+     "ex": "Should we start the calibration?",
+     "exZh": "我们应该开始校准吗？"
+    },
+    {
+     "en": "later",
+     "ipa": "/ˈleɪtər/",
+     "zh": "稍后、以后",
+     "ex": "We can test the next sample later.",
+     "exZh": "我们可以稍后再测下一台样机。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We should check the shielding.",
+     "zh": "我们应该检查一下屏蔽。"
+    },
+    {
+     "en": "Should we start the test now?",
+     "zh": "我们现在应该开始测试吗？"
+    },
+    {
+     "en": "There is interference near the antenna.",
+     "zh": "天线附近有干扰。"
+    },
+    {
+     "en": "We should test the next sample later.",
+     "zh": "我们应该稍后再测下一台样机。"
+    },
+    {
+     "en": "The shielding of these boards is not good.",
+     "zh": "这些板子的屏蔽不好。"
     }
    ]
   }
