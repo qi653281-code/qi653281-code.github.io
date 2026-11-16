@@ -814,6 +814,26 @@
    "ipa": "/bɔːrdz/",
    "zh": "板子（复数）",
    "say": "boards"
+  },
+  "resonance": {
+   "ipa": "/ˈrezənəns/",
+   "zh": "谐振"
+  },
+  "spec": {
+   "ipa": "/spek/",
+   "zh": "规格、指标"
+  },
+  "if": {
+   "ipa": "/ɪf/",
+   "zh": "如果"
+  },
+  "change": {
+   "ipa": "/tʃeɪndʒ/",
+   "zh": "更换、改变"
+  },
+  "move": {
+   "ipa": "/muːv/",
+   "zh": "移动、挪"
   }
  },
  "lessons": [
@@ -2320,6 +2340,69 @@
     {
      "en": "The shielding of these boards is not good.",
      "zh": "这些板子的屏蔽不好。"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "title": "If ..., ... 如果……就……",
+   "words": [
+    {
+     "en": "resonance",
+     "ipa": "/ˈrezənəns/",
+     "zh": "谐振",
+     "ex": "The resonance is at 2.4 GHz.",
+     "exZh": "谐振点在 2.4 GHz。"
+    },
+    {
+     "en": "spec",
+     "ipa": "/spek/",
+     "zh": "规格、指标（specification 的简写）",
+     "ex": "The gain meets the spec.",
+     "exZh": "增益满足指标。"
+    },
+    {
+     "en": "if",
+     "ipa": "/ɪf/",
+     "zh": "如果",
+     "ex": "If the sample is ready, we can start the test.",
+     "exZh": "如果样机准备好了，我们就可以开始测试。"
+    },
+    {
+     "en": "change",
+     "ipa": "/tʃeɪndʒ/",
+     "zh": "更换、改变",
+     "ex": "We need to change the cable.",
+     "exZh": "我们需要换一根线缆。"
+    },
+    {
+     "en": "move",
+     "ipa": "/muːv/",
+     "zh": "移动、挪",
+     "ex": "Please move the sample to the chamber.",
+     "exZh": "请把样机挪到暗室里。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "If the VSWR is high, we need to check the matching.",
+     "zh": "如果驻波比高，我们需要检查匹配。"
+    },
+    {
+     "en": "If the gain is low, we should move the antenna.",
+     "zh": "如果增益低，我们应该挪一下天线。"
+    },
+    {
+     "en": "The resonance is too low. We need to change the matching.",
+     "zh": "谐振太低了。我们需要改一下匹配。"
+    },
+    {
+     "en": "If the result meets the spec, we can send the report.",
+     "zh": "如果结果满足指标，我们就可以发报告。"
+    },
+    {
+     "en": "The resonance of these antennas is too high.",
+     "zh": "这些天线的谐振太高了。"
     }
    ]
   }
