@@ -1,0 +1,492 @@
+{
+  "readings": [
+    {
+      "id": "l1_rf",
+      "title": "射频测试的一天",
+      "level": "L1",
+      "minLesson": 11,
+      "audio": true,
+      "notes": {
+        "rf": "射频（radio frequency）",
+        "and": "和；并且"
+      },
+      "sentences": [
+        {
+          "en": "The RF lab is ready today.",
+          "zh": "今天射频实验室准备好了。"
+        },
+        {
+          "en": "There are many antennas in the lab.",
+          "zh": "实验室里有很多天线。"
+        },
+        {
+          "en": "We need to test this antenna today.",
+          "zh": "我们今天需要测试这根天线。"
+        },
+        {
+          "en": "The frequency is 2.4 GHz.",
+          "zh": "频率是 2.4 GHz。"
+        },
+        {
+          "en": "The gain of this antenna is high.",
+          "zh": "这根天线的增益很高。"
+        },
+        {
+          "en": "We measure the VSWR in the lab.",
+          "zh": "我们在实验室测量驻波比。"
+        },
+        {
+          "en": "The result of the test is good.",
+          "zh": "测试的结果很好。"
+        },
+        {
+          "en": "The cable and connector are ready.",
+          "zh": "线缆和连接器准备好了。"
+        },
+        {
+          "en": "We can send the report today.",
+          "zh": "我们今天可以发送报告。"
+        },
+        {
+          "en": "We will test the sample tomorrow.",
+          "zh": "我们明天将测试样品。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "今天在哪里测试？",
+          "options": [
+            "实验室",
+            "会议室",
+            "家里"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "天线的增益怎样？",
+          "options": [
+            "很低",
+            "很高",
+            "没有增益"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "明天要做什么？",
+          "options": [
+            "发送邮件",
+            "开会",
+            "测试样品"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "l1_antenna",
+      "title": "两根天线",
+      "level": "L1",
+      "minLesson": 11,
+      "audio": true,
+      "notes": {
+        "for": "为了；用于"
+      },
+      "sentences": [
+        {
+          "en": "These two antennas are ready for the test.",
+          "zh": "这两根天线准备好测试了。"
+        },
+        {
+          "en": "This antenna has a high gain.",
+          "zh": "这根天线有很高的增益。"
+        },
+        {
+          "en": "The gain of these antennas is good.",
+          "zh": "这些天线的增益很好。"
+        },
+        {
+          "en": "We need to measure the bandwidth today.",
+          "zh": "我们今天需要测量带宽。"
+        },
+        {
+          "en": "The bandwidth of this antenna is wide.",
+          "zh": "这根天线的带宽很宽。"
+        },
+        {
+          "en": "The VSWR of this antenna is low.",
+          "zh": "这根天线的驻波比很低。"
+        },
+        {
+          "en": "There is no problem with the cable.",
+          "zh": "线缆没有问题。"
+        },
+        {
+          "en": "We tested the radiation pattern yesterday.",
+          "zh": "我们昨天测试了方向图。"
+        },
+        {
+          "en": "The results of the test were good.",
+          "zh": "测试的结果很好。"
+        },
+        {
+          "en": "Please send the test report to the lab.",
+          "zh": "请把测试报告发送给实验室。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "准备好了几根天线？",
+          "options": [
+            "一根",
+            "两根",
+            "很多根"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "驻波比怎样？",
+          "options": [
+            "很高",
+            "未知",
+            "很低"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "昨天测试了什么？",
+          "options": [
+            "方向图",
+            "端口",
+            "线缆"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "l1_lab",
+      "title": "实验室检查",
+      "level": "L1",
+      "minLesson": 11,
+      "audio": true,
+      "notes": {
+        "for": "为了；用于"
+      },
+      "sentences": [
+        {
+          "en": "The sample is in the lab now.",
+          "zh": "样品现在在实验室。"
+        },
+        {
+          "en": "We need to test the sample today.",
+          "zh": "我们今天需要测试样品。"
+        },
+        {
+          "en": "Is the cable ready for the test?",
+          "zh": "线缆准备好测试了吗？"
+        },
+        {
+          "en": "Yes, the cable is ready now.",
+          "zh": "是的，线缆现在准备好了。"
+        },
+        {
+          "en": "Please check the connector on the board.",
+          "zh": "请检查板上的连接器。"
+        },
+        {
+          "en": "There are two ports on this board.",
+          "zh": "这块板上有两个端口。"
+        },
+        {
+          "en": "The signal is good in the chamber.",
+          "zh": "暗室里的信号很好。"
+        },
+        {
+          "en": "We can measure the power of this antenna.",
+          "zh": "我们可以测量这根天线的功率。"
+        },
+        {
+          "en": "The result meets the test requirement.",
+          "zh": "结果符合测试要求。"
+        },
+        {
+          "en": "We will send the sample to the lab tomorrow.",
+          "zh": "我们明天会把样品送到实验室。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "样品现在在哪里？",
+          "options": [
+            "实验室",
+            "家里",
+            "会议室"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "板上有几个端口？",
+          "options": [
+            "三个",
+            "两个",
+            "一个"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "信号怎样？",
+          "options": [
+            "不好",
+            "没有信号",
+            "很好"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "l1_meeting",
+      "title": "一次短会",
+      "level": "L1",
+      "minLesson": 11,
+      "audio": true,
+      "notes": {
+        "meeting": "会议"
+      },
+      "sentences": [
+        {
+          "en": "The meeting is in the lab today.",
+          "zh": "今天在实验室开会。"
+        },
+        {
+          "en": "We need to check the test report now.",
+          "zh": "我们现在需要检查测试报告。"
+        },
+        {
+          "en": "The results of the test are ready.",
+          "zh": "测试结果准备好了。"
+        },
+        {
+          "en": "The gain of these antennas is high.",
+          "zh": "这些天线的增益很高。"
+        },
+        {
+          "en": "There is a problem with the VSWR.",
+          "zh": "驻波比有一个问题。"
+        },
+        {
+          "en": "We need to improve the impedance matching.",
+          "zh": "我们需要改善阻抗匹配。"
+        },
+        {
+          "en": "Can you help me check the cable?",
+          "zh": "你能帮我检查线缆吗？"
+        },
+        {
+          "en": "We can test this antenna in the chamber.",
+          "zh": "我们可以在暗室测试这根天线。"
+        },
+        {
+          "en": "The report will be ready tomorrow.",
+          "zh": "报告明天会准备好。"
+        },
+        {
+          "en": "Please send the report to the lab tomorrow.",
+          "zh": "请明天把报告发给实验室。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "会议在哪里？",
+          "options": [
+            "家里",
+            "实验室",
+            "暗室"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "什么有问题？",
+          "options": [
+            "增益",
+            "频率",
+            "驻波比"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "报告何时准备好？",
+          "options": [
+            "明天",
+            "昨天",
+            "上次测试前"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "l1_email",
+      "title": "发送测试邮件",
+      "level": "L1",
+      "minLesson": 11,
+      "audio": true,
+      "notes": {
+        "for": "为了；用于",
+        "email": "电子邮件"
+      },
+      "sentences": [
+        {
+          "en": "The test report is ready for the email.",
+          "zh": "测试报告准备好随邮件发送了。"
+        },
+        {
+          "en": "Please check the report in the lab.",
+          "zh": "请在实验室检查报告。"
+        },
+        {
+          "en": "The gain of this antenna is good.",
+          "zh": "这根天线的增益很好。"
+        },
+        {
+          "en": "The efficiency of this antenna is high.",
+          "zh": "这根天线的效率很高。"
+        },
+        {
+          "en": "We measured the bandwidth of this antenna yesterday.",
+          "zh": "我们昨天测量了这根天线的带宽。"
+        },
+        {
+          "en": "The results of the test are good.",
+          "zh": "测试的结果很好。"
+        },
+        {
+          "en": "There is no problem with the sample.",
+          "zh": "样品没有问题。"
+        },
+        {
+          "en": "Can you send the email to the lab?",
+          "zh": "你能把邮件发给实验室吗？"
+        },
+        {
+          "en": "Yes, I can send it now.",
+          "zh": "是的，我现在可以发送。"
+        },
+        {
+          "en": "We will test the sample in the chamber tomorrow.",
+          "zh": "我们明天会在暗室测试样品。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "邮件要发给谁？",
+          "options": [
+            "实验室",
+            "家人",
+            "客户"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "昨天测量了什么？",
+          "options": [
+            "功率",
+            "带宽",
+            "端口"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "何时可以发邮件？",
+          "options": [
+            "明天",
+            "下周",
+            "现在"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "l1_review",
+      "title": "从问题到报告",
+      "level": "L1",
+      "minLesson": 11,
+      "audio": true,
+      "notes": {
+        "for": "为了；用于"
+      },
+      "sentences": [
+        {
+          "en": "There was a problem with the antenna yesterday.",
+          "zh": "昨天这根天线有一个问题。"
+        },
+        {
+          "en": "The VSWR of this antenna was high.",
+          "zh": "这根天线的驻波比很高。"
+        },
+        {
+          "en": "We checked the cable in the lab.",
+          "zh": "我们在实验室检查了线缆。"
+        },
+        {
+          "en": "We need to improve the matching today.",
+          "zh": "我们今天需要改善匹配。"
+        },
+        {
+          "en": "The sample is ready for the test now.",
+          "zh": "样品现在准备好测试了。"
+        },
+        {
+          "en": "We can measure the impedance of this antenna.",
+          "zh": "我们可以测量这根天线的阻抗。"
+        },
+        {
+          "en": "The result of the test is good now.",
+          "zh": "现在测试结果很好。"
+        },
+        {
+          "en": "The radiation patterns of these antennas are good.",
+          "zh": "这些天线的方向图很好。"
+        },
+        {
+          "en": "Please check the report of the test.",
+          "zh": "请检查这次测试的报告。"
+        },
+        {
+          "en": "We will send it to the lab tomorrow.",
+          "zh": "我们明天会把它发送给实验室。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "昨天驻波比怎样？",
+          "options": [
+            "很低",
+            "很高",
+            "不存在"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "现在测试结果怎样？",
+          "options": [
+            "很好",
+            "很差",
+            "没有结果"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "报告何时发送？",
+          "options": [
+            "昨天",
+            "现在",
+            "明天"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
