@@ -834,6 +834,42 @@
   "move": {
    "ipa": "/muːv/",
    "zh": "移动、挪"
+  },
+  "layout": {
+   "ipa": "/ˈleɪaʊt/",
+   "zh": "布局（电路/天线）"
+  },
+  "performance": {
+   "ipa": "/pərˈfɔːrməns/",
+   "zh": "性能"
+  },
+  "wait": {
+   "ipa": "/weɪt/",
+   "zh": "等待"
+  },
+  "waiting": {
+   "ipa": "/ˈweɪtɪŋ/",
+   "zh": "正在等待"
+  },
+  "busy": {
+   "ipa": "/ˈbɪzi/",
+   "zh": "忙"
+  },
+  "soon": {
+   "ipa": "/suːn/",
+   "zh": "很快、马上"
+  },
+  "am": {
+   "ipa": "/æm/",
+   "zh": "是（现在，我）"
+  },
+  "checking": {
+   "ipa": "/ˈtʃekɪŋ/",
+   "zh": "正在检查"
+  },
+  "for": {
+   "ipa": "/fɔːr/",
+   "zh": "为了；等待（wait for = 等……）"
   }
  },
  "lessons": [
@@ -2403,6 +2439,69 @@
     {
      "en": "The resonance of these antennas is too high.",
      "zh": "这些天线的谐振太高了。"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "title": "I am ...ing 正在做……",
+   "words": [
+    {
+     "en": "layout",
+     "ipa": "/ˈleɪaʊt/",
+     "zh": "布局（电路/天线）",
+     "ex": "The layout of the antenna is not good.",
+     "exZh": "天线的布局不好。"
+    },
+    {
+     "en": "performance",
+     "ipa": "/pərˈfɔːrməns/",
+     "zh": "性能",
+     "ex": "The performance meets the spec.",
+     "exZh": "性能满足指标。"
+    },
+    {
+     "en": "wait",
+     "ipa": "/weɪt/",
+     "zh": "等待",
+     "ex": "We are waiting for the sample.",
+     "exZh": "我们正在等样机。"
+    },
+    {
+     "en": "busy",
+     "ipa": "/ˈbɪzi/",
+     "zh": "忙",
+     "ex": "I am busy now.",
+     "exZh": "我现在很忙。"
+    },
+    {
+     "en": "soon",
+     "ipa": "/suːn/",
+     "zh": "很快、马上",
+     "ex": "We can start the test soon.",
+     "exZh": "我们马上可以开始测试。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I am checking the layout now.",
+     "zh": "我现在正在检查布局。"
+    },
+    {
+     "en": "We are waiting for the sample.",
+     "zh": "我们正在等样机。"
+    },
+    {
+     "en": "The performance is not good. We should change the layout.",
+     "zh": "性能不好。我们应该改一下布局。"
+    },
+    {
+     "en": "I am busy now. We can start the test soon.",
+     "zh": "我现在很忙。我们马上可以开始测试。"
+    },
+    {
+     "en": "The performance of these antennas is low.",
+     "zh": "这些天线的性能偏低。"
     }
    ]
   }

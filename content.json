@@ -1,7 +1,7 @@
 {
-  "version": 26,
-  "lessons_url": "releases/26/lessons.json",
-  "audio_manifest_url": "releases/26/audio/manifest.json",
+  "version": 27,
+  "lessons_url": "releases/27/lessons.json",
+  "audio_manifest_url": "releases/27/audio/manifest.json",
   "audio_base": "audio/",
   "readings_url": "readings/readings.json"
 }
