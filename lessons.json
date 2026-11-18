@@ -870,6 +870,30 @@
   "for": {
    "ipa": "/fɔːr/",
    "zh": "为了；等待（wait for = 等……）"
+  },
+  "probe": {
+   "ipa": "/proʊb/",
+   "zh": "探头"
+  },
+  "sweep": {
+   "ipa": "/swiːp/",
+   "zh": "扫频"
+  },
+  "confirm": {
+   "ipa": "/kənˈfɜːrm/",
+   "zh": "确认"
+  },
+  "just": {
+   "ipa": "/dʒʌst/",
+   "zh": "刚刚；只是"
+  },
+  "almost": {
+   "ipa": "/ˈɔːlmoʊst/",
+   "zh": "几乎、差不多"
+  },
+  "doing": {
+   "ipa": "/ˈduːɪŋ/",
+   "zh": "正在做"
   }
  },
  "lessons": [
@@ -2502,6 +2526,69 @@
     {
      "en": "The performance of these antennas is low.",
      "zh": "这些天线的性能偏低。"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Are you ...ing? 你在做……吗？",
+   "words": [
+    {
+     "en": "probe",
+     "ipa": "/proʊb/",
+     "zh": "探头",
+     "ex": "I am just checking the probe.",
+     "exZh": "我只是在检查探头。"
+    },
+    {
+     "en": "sweep",
+     "ipa": "/swiːp/",
+     "zh": "扫频",
+     "ex": "The sweep is almost ready.",
+     "exZh": "扫频差不多准备好了。"
+    },
+    {
+     "en": "confirm",
+     "ipa": "/kənˈfɜːrm/",
+     "zh": "确认",
+     "ex": "Please confirm the result.",
+     "exZh": "请确认一下结果。"
+    },
+    {
+     "en": "just",
+     "ipa": "/dʒʌst/",
+     "zh": "刚刚；只是",
+     "ex": "I am just checking the probe.",
+     "exZh": "我只是在检查探头。"
+    },
+    {
+     "en": "almost",
+     "ipa": "/ˈɔːlmoʊst/",
+     "zh": "几乎、差不多",
+     "ex": "The test is almost ready.",
+     "exZh": "测试差不多准备好了。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Are you checking the probe now?",
+     "zh": "你现在在检查探头吗？"
+    },
+    {
+     "en": "No, I am not. I am just checking the layout.",
+     "zh": "没有。我只是在检查布局。"
+    },
+    {
+     "en": "The sweep is almost ready. We can start soon.",
+     "zh": "扫频差不多准备好了。我们马上可以开始。"
+    },
+    {
+     "en": "What are you doing? We are waiting for the sample.",
+     "zh": "你在做什么？我们正在等样机。"
+    },
+    {
+     "en": "The performance of these antennas is low. We should confirm the result.",
+     "zh": "这些天线的性能偏低。我们应该确认一下结果。"
     }
    ]
   }
