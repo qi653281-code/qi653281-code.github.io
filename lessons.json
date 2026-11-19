@@ -894,6 +894,38 @@
   "doing": {
    "ipa": "/ˈduːɪŋ/",
    "zh": "正在做"
+  },
+  "mismatch": {
+   "ipa": "/ˈmɪsmætʃ/",
+   "zh": "失配"
+  },
+  "reflection": {
+   "ipa": "/rɪˈflekʃn/",
+   "zh": "反射"
+  },
+  "try": {
+   "ipa": "/traɪ/",
+   "zh": "试、尝试"
+  },
+  "trying": {
+   "ipa": "/ˈtraɪɪŋ/",
+   "zh": "正在尝试"
+  },
+  "together": {
+   "ipa": "/təˈɡeðər/",
+   "zh": "一起"
+  },
+  "really": {
+   "ipa": "/ˈriːəli/",
+   "zh": "真的、确实"
+  },
+  "measuring": {
+   "ipa": "/ˈmeʒərɪŋ/",
+   "zh": "正在测量"
+  },
+  "fixing": {
+   "ipa": "/ˈfɪksɪŋ/",
+   "zh": "正在修复"
   }
  },
  "lessons": [
@@ -2589,6 +2621,69 @@
     {
      "en": "The performance of these antennas is low. We should confirm the result.",
      "zh": "这些天线的性能偏低。我们应该确认一下结果。"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "title": "What are you ...ing? 你在做什么？",
+   "words": [
+    {
+     "en": "mismatch",
+     "ipa": "/ˈmɪsmætʃ/",
+     "zh": "失配",
+     "ex": "The mismatch is really high.",
+     "exZh": "失配真的很高。"
+    },
+    {
+     "en": "reflection",
+     "ipa": "/rɪˈflekʃn/",
+     "zh": "反射",
+     "ex": "We can measure the reflection now.",
+     "exZh": "我们现在可以测量反射。"
+    },
+    {
+     "en": "try",
+     "ipa": "/traɪ/",
+     "zh": "试、尝试",
+     "ex": "I am trying to fix the mismatch.",
+     "exZh": "我正在尝试修好失配。"
+    },
+    {
+     "en": "together",
+     "ipa": "/təˈɡeðər/",
+     "zh": "一起",
+     "ex": "We are checking the probe together.",
+     "exZh": "我们正在一起检查探头。"
+    },
+    {
+     "en": "really",
+     "ipa": "/ˈriːəli/",
+     "zh": "真的、确实",
+     "ex": "The reflection is really high.",
+     "exZh": "反射真的很高。"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "What are you doing now?",
+     "zh": "你现在在做什么？"
+    },
+    {
+     "en": "I am trying to fix the mismatch.",
+     "zh": "我正在尝试修好失配。"
+    },
+    {
+     "en": "What are you measuring? We are measuring the reflection.",
+     "zh": "你在测什么？我们在测反射。"
+    },
+    {
+     "en": "We are checking the layout together.",
+     "zh": "我们正在一起检查布局。"
+    },
+    {
+     "en": "The reflection of these antennas is really high.",
+     "zh": "这些天线的反射真的很高。"
     }
    ]
   }
